@@ -24,3 +24,5 @@
 - 进入目录, `cd ../stanley_ros_demo`
 - `source ./devel/setup.bash`
 - 启动 stanley controller 节点, `roslaunch stanley_controller stanley_controller.launch`
+
+![2](src/stanley_controller/docs/1.gif)
